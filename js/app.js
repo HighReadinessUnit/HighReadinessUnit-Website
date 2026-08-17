@@ -1,4 +1,4 @@
-const DISCORD_URL = "https://discord.gg/XV8MbnEKeH";
+const DISCORD_URL = "https://discord.gg/yDYkQhDrzt";
 const LANG_KEY = "hru-language";
 
 const I18N = {
